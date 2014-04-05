@@ -69,6 +69,13 @@
         android:title="@string/other_settings"
         android:persistent="false" />
 
+    <CheckBoxPreference
+        android:key="bg_incall_screen"
+        android:title="@string/bg_incall"
+        android:summary="@string/bg_incall_summary"
+        android:defaultValue="false"
+        android:persistent="false" />
+
     <PreferenceScreen
         android:key="button_voicemail_category_key"
         android:title="@string/voicemail"
