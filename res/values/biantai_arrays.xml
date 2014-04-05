@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+                         $$$$$$$$$$$$$$$
+                      $$$$$$        $$  $$$$
+                     $$$             $     $$$
+                   $$$$$$$          $$$      $$$
+                  $$$$ $$$$        $$          $$$
+                 $$$      $$       $            $$$
+     FFFF       $$$$     $$                $$$    $$
+    UUUUUU     $$$  $$$$$$              $$$$$$$$$  $$
+               $$$                     $$     $$$  $$
+               $$    $$$$$$$$$         $$      $$  $$
+                $$ $$  $$$ $$$$$$$$$     $$$$$$    $$
+                 $ $$      $$$  $$  $$$           $$
+  $$$             $$$              $$  $$        $$$
+   $$$$             $$$$$$$            $$      $$$
+ $$$$$$$$$$$         $$$  $$$$$       $$     $$$$
+    $$$  $$$$$$$$$   $$$     $$$$$   $$  $$$$$
+  $$$$        $$$$$$$$$$$$$$$    $$$$$$$$$$$$
+ $$$$               $$$     $$$$$$$$$$$
+      $$           $$$            $$$
+        $$        $$$            $$$
+        $$$$$$$$$$$$$$$$$$       $$$
+     $$$$$$$$     $$$$$$$$$$$$$  $$
+        $$$$      $$$            $$
+       $$$        $$            $$$
+                  $$            $$$
+                  $$$$$$$$$$$$$$$$$
+                   $$$$$$$$$$$$$$$
+                     $$$       $$$
+                    $$$         $$$
+                   $$$           $$$
+                  $$$             $$$
+                 $$$               $$$
+                $$$                 $$$
+               $$$                   $$$
+            $$$$$                    $$$$
+           $$$$$$                    $$$
+                                   $$$$
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Values for flip action settings -->
+    <!-- 翻转操作设置的值 -->
+    <string-array name="flip_action_setting_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <!-- Entries for flip action settings -->
+    <!-- 翻转操作设置的条目 -->
+    <string-array name="flip_action_setting_entries">
+        <item>@string/entry_mute_call</item>
+        <item>@string/entry_decline_call</item>
+        <item>@string/entry_do_nothing</item>
+    </string-array>
+
+    <!-- Summary texts for flip action settings. Must be ordered
+         by numerical value (mute call = 0, decline call = 1,
+         do nothing = 2 (default)) -->
+    <!-- 翻转操作设置的总结文字. 必须以数值顺序排列
+         静音来电 = 0, 挂断来电 = 1, 啥也不干 = 2 (默认)) -->
+    <string-array name="flip_action_summary_entries">
+        <item>@string/summary_mute_call</item>
+        <item>@string/summary_decline_call</item>
+        <item>@string/summary_do_nothing</item>
+    </string-array>
+
+</resources>

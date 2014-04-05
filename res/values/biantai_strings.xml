@@ -55,4 +55,22 @@
     <string name="bg_incall">Incoming call in background</string>
     <string name="bg_incall_summary">Keep incoming call UI in background when screen is on, show notification and play ringtone/vibrate only</string>
 
+    <!-- Setting title for flip action setting -->
+    <!-- 翻转操作设置的条目标题 -->
+    <string name="flip_action_title">Flip action</string>
+    <!-- Dialog title for flip action setting -->
+    <!-- 翻转操作设置的窗口标题 -->
+    <string name="flip_action_dialog_title">Flip Nexus to\u2026</string>
+    <!-- Setting summary for flip action setting -->
+    <!-- 翻转操作设置的总结文字 -->
+    <string name="flip_action_summary">Flipping your Nexus down will <xliff:g id="action">%s</xliff:g></string>
+    <!-- Values for flip action setting array entries -->
+    <!-- 翻转操作设置array中的条目 -->
+    <string name="entry_mute_call">Mute call</string>
+    <string name="entry_decline_call">Decline call</string>
+    <string name="entry_do_nothing">Do nothing</string>
+    <string name="summary_mute_call">mute the incoming call</string>
+    <string name="summary_decline_call">decline the incoming call</string>
+    <string name="summary_do_nothing">do nothing</string>
+
 </resources>
