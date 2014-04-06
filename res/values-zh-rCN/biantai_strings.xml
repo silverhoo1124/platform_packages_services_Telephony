@@ -53,7 +53,7 @@
     <!-- Incoming call in background -->
     <!-- 后台来电 -->
     <string name="bg_incall">后台来电</string>
-    <string name="bg_incall_summary"></string>
+    <string name="bg_incall_summary">前台有应用活动时,来电将保持在后台,同时显示来电通知及铃声</string>
 
     <!-- Setting title for flip action setting -->
     <!-- 翻转操作设置的条目标题 -->
