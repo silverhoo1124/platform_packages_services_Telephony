@@ -50,4 +50,27 @@
     <string name="vibrate_45">每分钟振动</string>
     <string name="vibrate_45_sum">去电期间每分钟的45秒时振动</string>
 
+    <!-- Incoming call in background -->
+    <!-- 后台来电 -->
+    <string name="bg_incall">后台来电</string>
+    <string name="bg_incall_summary"></string>
+
+    <!-- Setting title for flip action setting -->
+    <!-- 翻转操作设置的条目标题 -->
+    <string name="flip_action_title">翻转操作</string>
+    <!-- Dialog title for flip action setting -->
+    <!-- 翻转操作设置的窗口标题 -->
+    <string name="flip_action_dialog_title">翻转Nexus以\u2026</string>
+    <!-- Setting summary for flip action setting -->
+    <!-- 翻转操作设置的总结文字 -->
+    <string name="flip_action_summary">翻转Nexus将<xliff:g id="action">%s</xliff:g></string>
+    <!-- Values for flip action setting array entries -->
+    <!-- 翻转操作设置array中的条目 -->
+    <string name="entry_mute_call">静音来电</string>
+    <string name="entry_decline_call">挂断来电</string>
+    <string name="entry_do_nothing">啥也不干</string>
+    <string name="summary_mute_call">静音来电</string>
+    <string name="summary_decline_call">挂断来电</string>
+    <string name="summary_do_nothing">啥也不干</string>
+
 </resources>
